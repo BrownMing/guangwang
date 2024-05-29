@@ -10,7 +10,7 @@ defineOptions({
 
     <div class="email" absolute bottom-10 w-full flex justify-center>
       <div rd-2 p-2 p-x-5 text-8 color-white class="email_text">
-        639293382@qq.com
+        hedgebethbouthot@gmail.com
       </div>
     </div>
   </div>
