@@ -9,8 +9,8 @@ defineOptions({
     <img h-full w-full src="../assets/bg.webp" alt="">
 
     <div class="email" absolute bottom-10 w-full flex justify-center>
-      <div rd-2 p-2 p-x-5 text-8 color-white class="email_box">
-        639293382@qq.com
+      <div rd-2 p-2 p-x-5 text-8 color-black class="email_box">
+        vincentezerring@gmail.com
       </div>
     </div>
   </div>
