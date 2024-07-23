@@ -17,6 +17,7 @@ defineOptions({
 </template>
 <style lang="css" scoped>
 .email_box {
-  margin-bottom: 20px;
+  position: absolute;
+  top: -26px;
 }
 </style>
