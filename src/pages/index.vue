@@ -18,6 +18,6 @@ defineOptions({
 <style lang="css" scoped>
 .email_box {
   position: absolute;
-  top: -26px;
+  top: -36px;
 }
 </style>
