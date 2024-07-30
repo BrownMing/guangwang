@@ -19,6 +19,6 @@ defineOptions({
 .email_sbox {
   position: absolute;
   top: -83px;
-  right: 370px;
+  right: 240px;
 }
 </style>
