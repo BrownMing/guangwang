@@ -2,7 +2,7 @@
 defineOptions({
   name: 'IndexPage',
 })
-const appName = 'Kive'
+const appName = 'Rilon'
 </script>
 
 <template>
