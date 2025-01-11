@@ -2,7 +2,7 @@
 defineOptions({
   name: 'IndexPage',
 })
-const appName = 'Zylo'
+const appName = 'Sodly'
 </script>
 
 <template>
