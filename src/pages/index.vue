@@ -15,3 +15,11 @@ defineOptions({
     </div>
   </div>
 </template>
+
+<style lang="scss" scoped>
+.email {
+  position: absolute;
+  top: 51px;
+  right: 20%;
+}
+</style>
